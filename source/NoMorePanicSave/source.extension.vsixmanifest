@@ -6,8 +6,8 @@
     <Description xml:space="preserve">Automatically saves all files and projects when leaving the current visual studio instance</Description>
     <MoreInfo>https://github.com/philippdolder/NoMorePanicSave2015</MoreInfo>
     <License>LICENSE</License>
-    <Icon>NoMorePanicSavePackage.ico</Icon>
-    <Tags>save always auto leave</Tags>
+    <Icon>Resources\NoMorePanicSavePackage.ico</Icon>
+    <Tags>save,always,auto,leave</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,15.0)" />
